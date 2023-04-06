@@ -1,0 +1,1 @@
+Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy Brasil, entretanto, fiz alguns ajustes. Fiz com que o usuário não pudesse mandar mensagens com a textarea vazia, coloquei as # na cor azul e fiz algumas interações com botões.Além disso, otimizei o código como um todo.
